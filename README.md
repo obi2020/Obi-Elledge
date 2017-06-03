@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Work History
+## Google | Mountain View, CA
+### Senior UX Content Strategist 
+_November 2015 – Present_
+ 
+- Collaborate with product managers and designers on UI mocks
+- Write and edit email communications and help content
+- Code and organize content in proprietary CMS
+- Facilitate localization of content
 
-You can use the [editor on GitHub](https://github.com/obi2020/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Education
+## Georgia State University | Atlanta, GA
+### B.A. English, Creative Writing
+## Howard University | Washington, DC
+### Mathematics minor
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Skills
+- Content management systems
+- HTML
+- CSS
+- Javascript
+- Adobe Creative Suite
+- G Suite
+- Microsoft Office Suite
+- Google Analytics
+- Omniture
+- JIRA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Link](https://www.linkedin.com/in/obi2020) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/obi2020/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
