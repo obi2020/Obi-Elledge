@@ -1,5 +1,6 @@
 # Work History
 
+
 ## Google | Mountain View, CA
 ### Senior UX Content Strategist 
 _November 2015 – Present_
@@ -8,6 +9,7 @@ _November 2015 – Present_
 - Write and edit email communications and help content
 - Code and organize content in proprietary CMS
 - Facilitate localization of content
+
 
 ## Walmart eCommerce | San Bruno, CA
 ### Associate Content Manager (Contractor)
@@ -19,14 +21,16 @@ _April 2015 – Present_
 - Created  information architecture for supplier style guides 
 - Managed integration of editorial content in weekly e-circular
 
+
 ## eightyjane.com, Global 
 ### Independent Consultant
-_OCTOBER 2009 - JUNE 2015_
+_October 2009 - June 2015_
 Provided digital strategy for lifestyle brands and online retail businesses, including
 - SEO copywriting for eBay.com
 - Digital branding for mo-saique.com
 - Product and editorial strategy for ohthatsyou.com
 - SEO copywriting for printfly.com
+
 
 ## Moguldom Media Group, Atlanta, GA 
 ### VP Operations
@@ -37,9 +41,13 @@ _November 2007 - September 2009_
 - Project manager for digital advertising integrations
 - Managed vendor relationships & budgets
 
+
 # Education
+
+
 ## Georgia State University | Atlanta, GA
 ### B.A. English, Creative Writing
+
 
 ## Howard University | Washington, DC
 ### Mathematics minor
