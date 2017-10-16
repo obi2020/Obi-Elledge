@@ -5,15 +5,15 @@
 ### Senior UX Content Strategist 
 _November 2015 – Present_
  
-- Collaborate with product managers and designers on UI mocks
-- Write and edit email communications and help content
+- Write and edit help center articles
+- Collaborate with product teams on UI in-product help
 - Code and organize content in proprietary CMS
-- Facilitate localization of content
+- Facilitate translation of content into 45 languages
 
 
 ## Walmart eCommerce | San Bruno, CA
 ### Associate Content Manager (Contractor)
-_April 2015 – Present_
+_April 2014 – June 2015_
  
 - Wrote creative briefs for copy and graphic design assets
 - Project manager for sponsored media campaigns
