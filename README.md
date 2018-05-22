@@ -3,7 +3,7 @@
 
 ## Google | Mountain View, CA
 ### Senior UX Content Strategist 
-_November 2015 – Present_
+_November 2015 – January 2018_
  
 - Write and edit help center articles
 - Collaborate with product teams on UI in-product help
