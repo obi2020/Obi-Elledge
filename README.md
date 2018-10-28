@@ -1,14 +1,27 @@
 # Work History
 
 
+## Status.im | Remote
+### Product Content Strategist (contractor)
+_June 2018 – October 2018_ 
+</br>
+UX/UI strategy for the following app features & ecosystem projects
+- Mobile cryptocurrency wallet
+- Tokenized voting dApp (decentralized application)
+- App interface for hardware wallet / private keychain
+- Ethereum name service integration
+- Web3 security best practices
+- Blockchain transaction fee transparency
+- User-friendly privacy policy
+
 ## Google | Mountain View, CA
 ### Senior UX Content Strategist 
 _November 2015 – January 2018_
  
-- Write and edit help center articles
-- Collaborate with product teams on UI in-product help
-- Code and organize content in proprietary CMS
-- Facilitate translation of content into 45 languages
+- Wrote and edited help center articles
+- Collaborated with product teams on UI in-product help
+- Coded and organized content in proprietary CMS
+- Facilitated translation of content into 45 languages
 
 
 ## Walmart eCommerce | San Bruno, CA
